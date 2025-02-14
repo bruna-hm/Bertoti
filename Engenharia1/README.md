@@ -7,6 +7,6 @@ Existem diversos métodos e técnicas para se fazer algo com programação, dess
 
 3. Primeiro: Suporte técnico que é terceirizado por Software House. Ao invés de eles terem que investirem recursos em infraestrutura, entre outros, para ter um suporte da empresa, terceirizam essa parte do trabalho.
 
-Segundo: Uso de armazenamento em nuvem e menos memória no dispositivo. Utilizando o armazenamento em nuvem, não precisamos ter gastos muito grandes para ter memórias muito grandes.
+Segundo: Uso de armazenamento em nuvem e menos memória no dispositivo. Utilizando o armazenamento em nuvem, não precisamos ter gastos muito grandes para ter memórias com grandes capacidades que tem custo maior.
 
 Terceiro: 
