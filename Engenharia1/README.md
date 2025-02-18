@@ -5,8 +5,8 @@ A medida que a vida cotidiana tem cada vez mais e mais tecnologias integradas é
 Os rumos que um sistema pode tomar variam muito ao longo do tempo, desde as melhorias contínuas para os clientes quanto a escalabilidade que eventualmente podem ser necessários. Mesmo que o produto não seja tangível, o planejamento e desenvolvimento nessa etapa permitem que ele não seja vencido por adversidades, assim, se a necessidade seja alterar a tecnologia usada, novas funcionalidades, prover disponibilidade do programa para mais pessoas, etc, não será uma dor de cabeça tão grande fazer as alterações necessárias.
 Existem diversos métodos e técnicas para se fazer algo com programação, dessa froma, não quer dizer que uma seja melhor do que a outra, a necessidade de algo faz dela a melhor opção ou não de acordo com os recursos disponíveis pela equipe.
 
-3. Primeiro: Suporte técnico que é terceirizado por Software House. Ao invés de eles terem que investirem recursos em infraestrutura, entre outros, para ter um suporte da empresa, terceirizam essa parte do trabalho.
+3. Primeiro: Suporte técnico que é terceirizado por Software House. Ao invés de eles terem que investir em recursos e infraestrutura, é feito esse tipo de contrato de serviço para que a os resursos e infraestrutura do próprio Suporte sejam utilizados.
 
-Segundo: Uso de armazenamento em nuvem e menos memória no dispositivo. Utilizando o armazenamento em nuvem, não precisamos ter gastos muito grandes para ter memórias com grandes capacidades que tem custo maior.
+Segundo: Uso de armazenamento em nuvem e menos memória no dispositivo. Utilizando o armazenamento em nuvem, não precisamos ter gastos muito grandes para ter memórias com grandes capacidades e custo maior.
 
 Terceiro: 
