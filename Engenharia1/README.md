@@ -8,4 +8,6 @@ Existem diversos métodos e técnicas para se fazer algo com programação, ent�
 
 Segundo: Uso de armazenamento em nuvem e menos memória no dispositivo. Utilizando o armazenamento em nuvem não precisamos ter gastos muito grandes para ter memórias com capacidade e custos mais altos.
 
-Terceiro: 
+Terceiro: Escolhe entre Simplicidade no projeto ou melhor escalabilidade. Em determinados momentos do desenvolvimento de um sistema, precisa ser feita a escolha entre manter o sistema mais simples, porém com mais facilicade para escalabilidade. Assim, quando surgir a necessidade de escalabilidade o processo para fazê-la também será mais simples, e isso evita outros problemas como o tempo que o sistema precisa ficar offline para a atualização ou manutenção, por exemplo. 
+
+4. Comentário do Slide 57: no slide vemos que a construção do produto ao longo das Sprints deve visar o valor definido pelo cliente. Nesse sentido, vemos que entregar partes do produto sem funcionalidade não se configura como entrega, mas se entregarmos protótipos levemente diferentes que resolvem o problema, conseguimos atingir o valor pedido pelo cliente e, ao fim, entregar o produto completo no molde original da ideia.  
