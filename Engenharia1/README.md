@@ -15,6 +15,7 @@ Terceiro: Escolhe entre Simplicidade no projeto ou melhor escalabilidade. Em det
 
 5. Teste Java:
 
+´´´
 public class Morador {
     private String nome;
     private String apto;
@@ -50,6 +51,8 @@ public class Morador {
         this.andar = andar;
     }
 }
+
+´´´
 
 public class Predio {
     
